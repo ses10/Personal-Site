@@ -48,9 +48,10 @@ First Slide Styles
 	margin-top: 1.5em;
 }
 
-#particles-js
+#intro p
 {
-
+	margin-top: 2em;
+	font-size: 1em;
 }
 
 
